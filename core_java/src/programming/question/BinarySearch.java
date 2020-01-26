@@ -26,5 +26,6 @@ class BinarySearch {
         BinarySearch sol = new BinarySearch();
         int[] nums = {-1,0,3,5,9,12};
         System.out.println(sol.search(nums, 2));
+        System.out.println(sol.search(nums, 3));
     }
 }
