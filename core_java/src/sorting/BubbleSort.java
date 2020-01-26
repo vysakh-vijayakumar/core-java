@@ -16,8 +16,7 @@ public class BubbleSort {
 					swap(array, j, j+1);
 					swaped = true;
 				}
-			}
-			
+			}			
 			if(!swaped){
 				return array;
 			}
