@@ -1,5 +1,6 @@
 package sorting;
 
+/* Class implementing Bubble Sort */ 
 public class BubbleSort {
 
 	public int[] getSortedArray(int array[]){
